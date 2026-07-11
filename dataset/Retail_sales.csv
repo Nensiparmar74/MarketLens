@@ -1,1 +1,51 @@
-
+Date,Customer_ID,Age,Gender,Product_Name,Category,Quantity,Sales
+2025-04-10,C1001,48,Female,T-Shirt,Clothing,8,303.1
+2025-01-05,C1002,52,Male,Jacket,Clothing,4,179.52
+2025-03-06,C1003,18,Male,Headphones,Electronics,7,1571.16
+2025-05-16,C1004,47,Female,Chair,Furniture,8,1099.03
+2025-02-06,C1005,20,Male,Jeans,Clothing,8,359.25
+2025-11-27,C1006,32,Male,Jeans,Clothing,3,126.23
+2025-02-02,C1007,46,Male,T-Shirt,Clothing,8,306.45
+2025-06-08,C1008,42,Female,T-Shirt,Clothing,7,332.32
+2025-04-26,C1009,27,Male,Desk,Furniture,2,232.93
+2025-09-11,C1010,56,Female,Jacket,Clothing,6,282.23
+2025-05-31,C1011,40,Female,Chair,Furniture,6,839.53
+2025-06-07,C1012,46,Male,Jeans,Clothing,5,186.5
+2025-08-15,C1013,44,Male,Jacket,Clothing,3,141.22
+2025-02-24,C1014,33,Male,Printer Paper,Office Supplies,1,22.85
+2025-03-30,C1015,62,Female,Chair,Furniture,2,267.59
+2025-02-17,C1016,23,Female,Jeans,Clothing,7,311.17
+2025-04-15,C1017,48,Male,Mouse,Electronics,3,613.88
+2025-06-14,C1018,42,Female,Pen,Office Supplies,5,111.26
+2025-12-05,C1019,22,Female,Chair,Furniture,3,411.41
+2025-09-16,C1020,63,Female,Chair,Furniture,7,817.62
+2025-10-22,C1021,47,Female,T-Shirt,Clothing,4,189.05
+2025-05-11,C1022,18,Male,Laptop,Electronics,7,1634.52
+2025-08-21,C1023,38,Female,Bookshelf,Furniture,1,136.82
+2025-02-17,C1024,54,Female,Printer Paper,Office Supplies,4,92.06
+2025-06-24,C1025,48,Female,Headphones,Electronics,8,1683.78
+2025-06-11,C1026,40,Female,Pen,Office Supplies,7,144.61
+2025-02-23,C1027,29,Male,Bookshelf,Furniture,4,466.78
+2025-03-06,C1028,47,Male,Laptop,Electronics,7,1633.87
+2025-05-05,C1029,27,Female,Smartphone,Electronics,4,847.32
+2025-03-27,C1030,60,Male,Desk,Furniture,4,459.63
+2025-07-11,C1031,45,Male,Smartphone,Electronics,2,417.7
+2025-10-20,C1032,26,Male,Laptop,Electronics,1,204.24
+2025-01-22,C1033,22,Male,Mouse,Electronics,1,187.45
+2025-08-25,C1034,39,Female,Jeans,Clothing,6,235.89
+2025-12-02,C1035,35,Male,Mouse,Electronics,2,448.53
+2025-10-08,C1036,18,Male,Jacket,Clothing,2,90.34
+2025-10-21,C1037,22,Female,Jacket,Clothing,3,108.86
+2025-07-11,C1038,23,Male,T-Shirt,Clothing,5,217.02
+2025-06-04,C1039,52,Male,Pen,Office Supplies,5,109.9
+2025-02-13,C1040,23,Female,Smartphone,Electronics,5,1041.81
+2025-02-13,C1041,57,Female,Jeans,Clothing,1,40.55
+2025-12-25,C1042,21,Male,Smartphone,Electronics,5,1120.99
+2025-01-12,C1043,24,Male,T-Shirt,Clothing,4,182.49
+2025-08-23,C1044,52,Male,Desk,Furniture,4,456.28
+2025-10-02,C1045,27,Female,Mouse,Electronics,1,182.22
+2025-06-14,C1046,47,Male,Printer Paper,Office Supplies,2,44.08
+2025-09-06,C1047,30,Female,Chair,Furniture,5,668.37
+2025-04-30,C1048,26,Male,Pen,Office Supplies,4,75.39
+2025-01-31,C1049,32,Female,Chair,Furniture,1,110.34
+2025-10-21,C1050,36,Male,Desk,Furniture,5,560.82
