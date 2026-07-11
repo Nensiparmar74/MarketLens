@@ -206,4 +206,6 @@ Nensi Parmar
 
 🔗 LinkedIn: https://www.linkedin.com/in/nensi-parmar-2a4095380/
 
+🔗 Youtube: https://www.youtube.com/@NEXENSAINFOTECH
+
 🔗 kaggle:https://www.kaggle.com/nensiparmar
